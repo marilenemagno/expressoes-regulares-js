@@ -5,6 +5,7 @@ Atividade Avaliativa da disciplina de Teoria da Computação, ministrada no Prog
 - Jonathan Sales
 - Maria Líbia
 - Lindalvo Neto
+- Marilene Magno
 
 # Tecnologias utilizadas
 - JavaScript
